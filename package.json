@@ -1,0 +1,15 @@
+{
+  "name": "pocnuxtpackage",
+  "version": "1.0.0",
+  "description": "This is the package who put unicorn around a string ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node"
+  ],
+  "author": "Alexanne Brunold",
+  "license": "ISC"
+}
